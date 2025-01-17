@@ -1,0 +1,6 @@
+flask 
+request 
+python-dotenv 
+duckduckgo-search
+phidata
+groq
